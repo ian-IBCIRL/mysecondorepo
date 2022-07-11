@@ -21,7 +21,10 @@
       "**/CVS": true
    },
    "files.autoSave": "off",
-   "workbench.colorTheme": "Visual Studio Dark",
+   "workbench.colorTheme": "Gitpod Dark",
    "terminal.integrated.gpuAcceleration": "canvas",
-   "editor.defaultFormatter": "HookyQR.beautify"
+   "editor.defaultFormatter": "HookyQR.beautify",
+   "emmet.showAbbreviationSuggestions": true,
+   "emmet.showSuggestionsAsSnippets": true,
+   "emmet.triggerExpansionOnTab": true
 }
